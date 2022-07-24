@@ -6,6 +6,7 @@ require (
 	firebase.google.com/go/v4 v4.8.0
 	github.com/bufbuild/connect-go v0.2.0
 	github.com/pkg/errors v0.9.1
+	go.uber.org/zap v1.21.0
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	google.golang.org/protobuf v1.28.0
 )
@@ -23,7 +24,6 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
-	go.uber.org/zap v1.21.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a // indirect
 	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
 	golang.org/x/text v0.3.7 // indirect
